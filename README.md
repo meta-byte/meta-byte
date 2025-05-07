@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About Me
+This is where I would put something interesting about myself, if I had anything to share.
 <!--
 **meta-byte/meta-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
