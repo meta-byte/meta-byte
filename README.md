@@ -1,5 +1,11 @@
-## About Me
-This is where I would put something interesting about myself, if I had anything to share.
+### Hi, I'm Garrett 👋
+
+I explore tech for fun and occasionally ship something.
+
+- 🔭 Currently: Shipping fintech at Holdings. These days I orchestrate more agents than I write functions.
+- 🌱 Learning: Web application security — I'm interested in the crossroad where cybersecurity and poorly written software meet.
+
+
 <!--
 **meta-byte/meta-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
