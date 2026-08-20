@@ -1,6 +1,6 @@
 ### Hi, I'm Garrett 👋
 
-I explore tech for fun and occasionally ship something.
+I explore tech for fun.
 
 - 🔭 Currently: Shipping fintech at Holdings. These days I orchestrate more agents than I write functions.
 - 🌱 Learning: Web application security — I'm interested in the crossroad where cybersecurity and poorly written software meet.
